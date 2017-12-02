@@ -1,0 +1,10 @@
+/home/taylor/apps/dotnet-core-rabbitmq/rabbitmq-example-api/bin/Debug/netcoreapp2.0/rabbitmq-example-api.deps.json
+/home/taylor/apps/dotnet-core-rabbitmq/rabbitmq-example-api/bin/Debug/netcoreapp2.0/rabbitmq-example-api.runtimeconfig.json
+/home/taylor/apps/dotnet-core-rabbitmq/rabbitmq-example-api/bin/Debug/netcoreapp2.0/rabbitmq-example-api.runtimeconfig.dev.json
+/home/taylor/apps/dotnet-core-rabbitmq/rabbitmq-example-api/bin/Debug/netcoreapp2.0/rabbitmq-example-api.dll
+/home/taylor/apps/dotnet-core-rabbitmq/rabbitmq-example-api/bin/Debug/netcoreapp2.0/rabbitmq-example-api.pdb
+/home/taylor/apps/dotnet-core-rabbitmq/rabbitmq-example-api/obj/Debug/netcoreapp2.0/rabbitmq-example-api.csproj.CoreCompileInputs.cache
+/home/taylor/apps/dotnet-core-rabbitmq/rabbitmq-example-api/obj/Debug/netcoreapp2.0/rabbitmq-example-api.AssemblyInfoInputs.cache
+/home/taylor/apps/dotnet-core-rabbitmq/rabbitmq-example-api/obj/Debug/netcoreapp2.0/rabbitmq-example-api.AssemblyInfo.cs
+/home/taylor/apps/dotnet-core-rabbitmq/rabbitmq-example-api/obj/Debug/netcoreapp2.0/rabbitmq-example-api.dll
+/home/taylor/apps/dotnet-core-rabbitmq/rabbitmq-example-api/obj/Debug/netcoreapp2.0/rabbitmq-example-api.pdb

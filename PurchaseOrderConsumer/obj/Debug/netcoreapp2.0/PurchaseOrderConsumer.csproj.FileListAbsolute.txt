@@ -1,0 +1,10 @@
+/home/taylor/apps/dotnet-core-rabbitmq/PurchaseOrderConsumer/bin/Debug/netcoreapp2.0/PurchaseOrderConsumer.deps.json
+/home/taylor/apps/dotnet-core-rabbitmq/PurchaseOrderConsumer/bin/Debug/netcoreapp2.0/PurchaseOrderConsumer.runtimeconfig.json
+/home/taylor/apps/dotnet-core-rabbitmq/PurchaseOrderConsumer/bin/Debug/netcoreapp2.0/PurchaseOrderConsumer.runtimeconfig.dev.json
+/home/taylor/apps/dotnet-core-rabbitmq/PurchaseOrderConsumer/bin/Debug/netcoreapp2.0/PurchaseOrderConsumer.dll
+/home/taylor/apps/dotnet-core-rabbitmq/PurchaseOrderConsumer/bin/Debug/netcoreapp2.0/PurchaseOrderConsumer.pdb
+/home/taylor/apps/dotnet-core-rabbitmq/PurchaseOrderConsumer/obj/Debug/netcoreapp2.0/PurchaseOrderConsumer.csproj.CoreCompileInputs.cache
+/home/taylor/apps/dotnet-core-rabbitmq/PurchaseOrderConsumer/obj/Debug/netcoreapp2.0/PurchaseOrderConsumer.AssemblyInfoInputs.cache
+/home/taylor/apps/dotnet-core-rabbitmq/PurchaseOrderConsumer/obj/Debug/netcoreapp2.0/PurchaseOrderConsumer.AssemblyInfo.cs
+/home/taylor/apps/dotnet-core-rabbitmq/PurchaseOrderConsumer/obj/Debug/netcoreapp2.0/PurchaseOrderConsumer.dll
+/home/taylor/apps/dotnet-core-rabbitmq/PurchaseOrderConsumer/obj/Debug/netcoreapp2.0/PurchaseOrderConsumer.pdb

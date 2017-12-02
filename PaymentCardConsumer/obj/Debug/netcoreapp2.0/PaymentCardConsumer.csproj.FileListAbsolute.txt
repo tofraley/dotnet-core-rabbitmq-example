@@ -1,0 +1,10 @@
+/home/taylor/apps/dotnet-core-rabbitmq/PaymentCardConsumer/bin/Debug/netcoreapp2.0/PaymentCardConsumer.deps.json
+/home/taylor/apps/dotnet-core-rabbitmq/PaymentCardConsumer/bin/Debug/netcoreapp2.0/PaymentCardConsumer.runtimeconfig.json
+/home/taylor/apps/dotnet-core-rabbitmq/PaymentCardConsumer/bin/Debug/netcoreapp2.0/PaymentCardConsumer.runtimeconfig.dev.json
+/home/taylor/apps/dotnet-core-rabbitmq/PaymentCardConsumer/bin/Debug/netcoreapp2.0/PaymentCardConsumer.dll
+/home/taylor/apps/dotnet-core-rabbitmq/PaymentCardConsumer/bin/Debug/netcoreapp2.0/PaymentCardConsumer.pdb
+/home/taylor/apps/dotnet-core-rabbitmq/PaymentCardConsumer/obj/Debug/netcoreapp2.0/PaymentCardConsumer.csproj.CoreCompileInputs.cache
+/home/taylor/apps/dotnet-core-rabbitmq/PaymentCardConsumer/obj/Debug/netcoreapp2.0/PaymentCardConsumer.AssemblyInfoInputs.cache
+/home/taylor/apps/dotnet-core-rabbitmq/PaymentCardConsumer/obj/Debug/netcoreapp2.0/PaymentCardConsumer.AssemblyInfo.cs
+/home/taylor/apps/dotnet-core-rabbitmq/PaymentCardConsumer/obj/Debug/netcoreapp2.0/PaymentCardConsumer.dll
+/home/taylor/apps/dotnet-core-rabbitmq/PaymentCardConsumer/obj/Debug/netcoreapp2.0/PaymentCardConsumer.pdb

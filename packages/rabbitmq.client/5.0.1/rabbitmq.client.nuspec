@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>RabbitMQ.Client</id>
+    <version>5.0.1</version>
+    <authors>RabbitMQ.Client</authors>
+    <owners>RabbitMQ.Client</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://www.rabbitmq.com/dotnet.html</licenseUrl>
+    <projectUrl>http://www.rabbitmq.com/dotnet.html</projectUrl>
+    <iconUrl>https://en.gravatar.com/userimage/10048884/0ea8846e080980f705da081be53599ce.png?size=100</iconUrl>
+    <description>The RabbitMQ .NET client is the official client library for C# (and, implicitly, other .NET languages)</description>
+    <tags>RabbitMQ</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5.1">
+        <dependency id="Microsoft.Diagnostics.Tracing.EventSource.Redist" version="1.1.28" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard1.5">
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+        <dependency id="System.Collections.Concurrent" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Console" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Diagnostics.Debug" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Diagnostics.Tracing" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.IO" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Linq" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Net.NameResolution" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Security" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Sockets" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Reflection.Extensions" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Reflection.TypeExtensions" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime.Extensions" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Text.RegularExpressions" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Threading" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Threading.Thread" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Threading.Timer" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
